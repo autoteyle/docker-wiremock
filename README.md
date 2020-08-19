@@ -1,6 +1,6 @@
-[![Travis (.org) branch](https://img.shields.io/travis/autoteyle/docker-wiremocko/master)](https://travis-ci.org/autoteyle/docker-wiremocko)
-[![Docker Pulls](https://img.shields.io/docker/pulls/autoteyle/wiremocko)](https://hub.docker.com/r/autoteyle/wiremocko)
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/autoteyle/docker-wiremocko)](https://hub.docker.com/repository/docker/autoteyle/wiremocko/tags?page=1)
+[![Travis (.org) branch](https://img.shields.io/travis/autoteyle/docker-wiremock/master)](https://travis-ci.org/autoteyle/docker-wiremock)
+[![Docker Pulls](https://img.shields.io/docker/pulls/autoteyle/wiremock)](https://hub.docker.com/r/autoteyle/wiremock)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/autoteyle/docker-wiremock)](https://hub.docker.com/repository/docker/autoteyle/wiremock/tags?page=1)
 
 # Docker WireMock
 Provides containerized [WireMock](https://github.com/tomakehurst/wiremock).
