@@ -1,0 +1,10 @@
+version: '2'
+services:
+  app:
+    image: autoteyle/wiremock:dev
+    build:
+      context: .
+    ports:
+      - 9999:9999
+    volumes:
+      - ./data:/data
